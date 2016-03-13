@@ -536,7 +536,8 @@ PRODUCT_PACKAGES := \
     BluetoothExt \
     Calculator \
     Calendar \
-    Camera2 \
+    SnapdragonCamera \
+	Browser \
     CellBroadcastReceiver \
     telresources \
     CertInstaller \
